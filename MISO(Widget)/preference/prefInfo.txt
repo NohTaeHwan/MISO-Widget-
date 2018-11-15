@@ -1,0 +1,9 @@
+dic:Daum
+enc:Daum
+img:Naver
+trs:Naver
+map:Google
+video:Youtube
+ocr:160
+hot:16
+null
