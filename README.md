@@ -2,8 +2,6 @@
 
 ## List
 
-------
-
 1. [Overview](#overview)
 2. [Project info](#project-info)
 3. [Description](#description)
@@ -12,15 +10,11 @@
 
 ## Overview
 
-------
-
 MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 , 유튜브 , 다음 등의 사이트에서 제공하는 open API들을 사용하여 사용자가 원하는 검색결과를 얻게해주는 서비스 응용 프로그램입니다. 웹 서핑이나 문서작업 중 궁금한 Text에 대한 사전정보 , 관련 사진 , 동영상 , 지도정보 등을 간단하게 얻어낼 수 있습니다. 
 
 
 
 ## Project Info
-
-------
 
 목표 , 시스템 흐름도 , 사용기술
 
@@ -35,7 +29,7 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 
 ### 시스템 흐름도
 
-<img src="/Users/taehwan/Library/Application Support/typora-user-images/image-20201105164530496.png" alt="image-20201105164530496" style="zoom:35%;" />
+<img width="874" alt="스크린샷 2020-11-05 오후 4 44 53" src="https://user-images.githubusercontent.com/29722673/98215752-89569480-1f8b-11eb-893a-c908f97dc3a0.png" style="zoom:50%;" align="left">
 
 ### 사용 기술 및 라이브러리
 
@@ -85,13 +79,13 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 
 1. ##### 원하는 데이터 카테고리 선택
 
-<img src="/Users/taehwan/Library/Application Support/typora-user-images/image-20201105171352931.png" alt="image-20201105171352931" style="zoom:50%;" align="left" />
+<img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" style="zoom:50%;" align="left" />
 
 ##### 2. 검색을 원하는 텍스트에 텍스트 블록 설정
 
-<img src="/Users/taehwan/Library/Application Support/typora-user-images/image-20201105171532046.png" alt="image-20201105171532046" style="zoom:50%;" align="left"/>
+<img src="https://user-images.githubusercontent.com/29722673/98216217-1b5e9d00-1f8c-11eb-8c54-f036dae0ef5e.png" alt="miso2" style="zoom:50%;" align="left" />
 
 ##### 3. 지정된 hot key입력 후 검색 결과 출력
 
-<img src="/Users/taehwan/Library/Application Support/typora-user-images/image-20201105171629202.png" alt="image-20201105171629202" style="zoom:50%;" align="left"/>
+<img src="https://user-images.githubusercontent.com/29722673/98216301-37fad500-1f8c-11eb-9699-0719bd3b701c.png" alt="miso3" style="zoom:50%;" align="left" />
 
