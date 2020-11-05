@@ -25,12 +25,10 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 - 재활용성 및 확장성 제공
 - 사용자가 원하는 형태의 검색 정보 제공
 
-
-
 ### 시스템 흐름도
 
-<img width="874" alt="스크린샷 2020-11-05 오후 4 44 53" src="https://user-images.githubusercontent.com/29722673/98215752-89569480-1f8b-11eb-893a-c908f97dc3a0.png" width="60%" height="35%" align="left">     
-<br/>
+<img width="874" alt="스크린샷 2020-11-05 오후 4 44 53" src="https://user-images.githubusercontent.com/29722673/98215752-89569480-1f8b-11eb-893a-c908f97dc3a0.png">
+
 ### 사용 기술 및 라이브러리
 
 - Java
@@ -39,13 +37,7 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 - SystemHook : hooking open source
 - IDE : Eclipse , Scene Builder
 
-
-
-
-
 ## Description
-
-
 
 ### 주요 기능
 
@@ -75,15 +67,6 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 
 ### 사용 예시
 
-##### 1. 원하는 데이터 카테고리 선택
+<img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" width="33%" height="50%" align="left" /><img src="https://user-images.githubusercontent.com/29722673/98216217-1b5e9d00-1f8c-11eb-8c54-f036dae0ef5e.png" alt="miso2" width="33%" height="15%" align="left" /><img src="https://user-images.githubusercontent.com/29722673/98216301-37fad500-1f8c-11eb-9699-0719bd3b701c.png" alt="miso3" width="34%" height="50%" align="left" />     
 
-- <img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" width="25%" height="50%" align="left" />    
-
-<br/>
-##### 2. 검색을 원하는 텍스트에 텍스트 블록 설정
-- <img src="https://user-images.githubusercontent.com/29722673/98216217-1b5e9d00-1f8c-11eb-8c54-f036dae0ef5e.png" alt="miso2" width="25%" height="15%" align="left" />     
-
-<br/>
-##### 3. 지정된 hot key입력 후 검색 결과 출력
-- <img src="https://user-images.githubusercontent.com/29722673/98216301-37fad500-1f8c-11eb-9699-0719bd3b701c.png" alt="miso3" width="25%" height="50%" align="left" />     
-
+1. 원하는 데이터 카테고리 선택          2. 검색을 원하는 텍스트에 텍스트 블록 설정         3. 지정된 hot key입력 후 검색 결과 출력
