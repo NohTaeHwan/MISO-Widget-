@@ -77,7 +77,7 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 
 ##### 1. 원하는 데이터 카테고리 선택
 
-- <img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" style="zoom:15%;" align="left" />
+- <img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" width="25%" height="50%" align="left" />
 
 <br>
 ##### 2. 검색을 원하는 텍스트에 텍스트 블록 설정
