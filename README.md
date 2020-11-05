@@ -77,15 +77,15 @@ MISO는 Mash-up for Instant Search using open API의 약자입니다. 네이버 
 
 ### 사용 예시
 
-1. ##### 원하는 데이터 카테고리 선택
+##### 1. 원하는 데이터 카테고리 선택
 
-<img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" style="zoom:50%;" align="left" />
+- <img src="https://user-images.githubusercontent.com/29722673/98216052-e7837780-1f8b-11eb-8ecf-d8e0fc18f459.png" alt="miso1" style="zoom:30%;" align="left" />
 
 ##### 2. 검색을 원하는 텍스트에 텍스트 블록 설정
 
-<img src="https://user-images.githubusercontent.com/29722673/98216217-1b5e9d00-1f8c-11eb-8c54-f036dae0ef5e.png" alt="miso2" style="zoom:50%;" align="left" />
+- <img src="https://user-images.githubusercontent.com/29722673/98216217-1b5e9d00-1f8c-11eb-8c54-f036dae0ef5e.png" alt="miso2" style="zoom:30%;" align="left" />
 
 ##### 3. 지정된 hot key입력 후 검색 결과 출력
 
-<img src="https://user-images.githubusercontent.com/29722673/98216301-37fad500-1f8c-11eb-9699-0719bd3b701c.png" alt="miso3" style="zoom:50%;" align="left" />
+- <img src="https://user-images.githubusercontent.com/29722673/98216301-37fad500-1f8c-11eb-9699-0719bd3b701c.png" alt="miso3" style="zoom:30%;" align="left" />
 
